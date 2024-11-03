@@ -3,7 +3,7 @@ import Image from "next/image";
 function Home() {
     return (
         <div>
-            <h1>Oi Amor, eu e o Neneco amamos você!!</h1>
+            <h1>Minha Base!</h1>
             <Image
                 src= "/img.jpeg"
                 width={500} 
